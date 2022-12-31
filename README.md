@@ -3,7 +3,6 @@ This Repo is the project in Princeton Algorithm Course. [Coursera](https://www.c
 | Assignment  | Algorithm | Grade | Coverage | Issue    |
 | ----------- | --------- | ----- | -------- | -------- |
 | Percolation | QuickFind | 89%   | 34/38    | Backwash |
-|             |           |       |          |          |
 
 
 
