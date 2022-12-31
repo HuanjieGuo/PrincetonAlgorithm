@@ -42,15 +42,6 @@ public class Percolation {
     }
 
     private boolean connected(int firstIdx, int secondIdx){
-//        int firstIdxParent = firstIdx;
-//        int secondIdxParent = secondIdx;
-//        while (firstIdxParent != id[firstIdxParent]){
-//            firstIdxParent = id[firstIdxParent];
-//        }
-//        while (secondIdxParent != id[secondIdxParent]){
-//            secondIdxParent = id[secondIdxParent];
-//        }
-//        return firstIdxParent == secondIdxParent;
         return id[firstIdx] == id[secondIdx];
     }
 
